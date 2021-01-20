@@ -25,11 +25,11 @@ As long as you have an Internet connection, you're invited to join our global ha
 
 ## Other Resources + DeFi Building Blocks
 
-* [Automated Market Maker + Swap Reference Implementation] (https://github.com/solana-labs/oyster-swap)
-* [Borrow/Lend Reference Implementation] (https://github.com/solana-labs/oyster-lending)
-* [Margin Reference Implementation] (https://github.com/solana-labs/oyster-margin)
+* [Automated Market Maker + Swap Reference Implementation](https://github.com/solana-labs/oyster-swap)
+* [Borrow/Lend Reference Implementation](https://github.com/solana-labs/oyster-lending)
+* [Margin Reference Implementation](https://github.com/solana-labs/oyster-margin)
 * [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
-* [Chainklink<>Solana Oracle Implementation] (link)
+* [Chainklink<>Solana Oracle Implementation](link)
 * [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
 * [Run your own Serum DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
