@@ -44,7 +44,7 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 4. Design
 5. Composability
 
-After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. To culminate the hackathon, there will be a live-streamed event where the invited winners will present their project submissions. 
+After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon. 
 
 **Prizes**
 
