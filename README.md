@@ -7,9 +7,9 @@
 * Project submission form: [Submit here](link)
 
 ## Introduction
-Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable developers to build and scale applications to billions of users globally. The Solana Foundation has teamed up with Serum, the largest DeFi project in the ecosystem, to host a hackathon focused on allowing builders to experiment and leverage technology to create a plethora of DeFi (Decentralized Finance) applications and tools.
+Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation has teamed up with Serum, the largest DeFi project in the ecosystem, to host a hackathon focused on allowing developers to experiment and leverage our technology to create a plethora of DeFi (Decentralized Finance) applications and tools.
 
-As long as you have an Internet connection, you're invited to join our global hackathon! Combining Serum's infrastructure and tooling with Solana’s core features gives hackers an open design space to create entirely new applications that expand the overall DeFi ecosystem. While we encourage participants to build novel DeFi apps, hackers can build any application or tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at our list of [ideas for inspiration](link).
+As long as you have an Internet connection, you're invited to join our global hackathon! Combining Serum's infrastructure and tooling with Solana’s core features gives hackers an open design space to expand the overall DeFi ecosystem. While we encourage participants to build novel DeFi apps, hackers can build any application or tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at our list of [ideas for inspiration](link).
 
 ## Get Started Building
 
