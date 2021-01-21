@@ -1,5 +1,5 @@
 # Solana x Serum DeFi Hackathon &middot; Up to $200k in prizes
-#### Bringing Speed and Efficiency to Decentralized Finance
+#### Bringing Speed, Low Fees, and Efficiency to Decentralized Finance
 
 * Hackathon dates: February 15 through February 29, 2021
 * Type: Online and global
