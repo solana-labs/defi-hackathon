@@ -64,7 +64,7 @@ After judges complete individual evaluations, the hackathon organizers will disc
 ## Discussion Channels
 
 * [#hackathon-announcements](link): Announcements from the Solana Foundation and Serum team
-* [#qa-general](link): Technical support and help from Solana and Serum Engineers
+* [#questions](link): Technical support and help from Solana and Serum Engineers
 * [#team-formation](link): Introduce yourself, find a team, or seek additional team members
 
 ## Code of Conduct 
