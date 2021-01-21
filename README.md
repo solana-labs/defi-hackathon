@@ -34,6 +34,7 @@ As long as you have an Internet connection, you're invited to join our global ha
 * [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
 * [Run your own Serum DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
+* [Solana Development Tutorial](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
 
 ## Judging
 
