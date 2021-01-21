@@ -55,7 +55,7 @@ After judges complete individual evaluations, the hackathon organizers will disc
 | First Place                            | 2 winners up to $50k each + Solana Swag |
 | Second Place                           | 3 teams of $20k each + Solana Swag              |
 | Third Place                            | 4 teams of $10k each + Solana Swag              |
-| Community Choice Prize                 | 5k each + Solana Swag              |
+| Community Choice Prize                 | $5k + Solana Swag              |
 | Bonfida Prize                          | $5k                                          |
 | Chainlink Prize                        | $5k                                          |
 | SushiSwap Prize                        | $5k                                          |
