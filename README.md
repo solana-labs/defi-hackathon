@@ -1,4 +1,4 @@
-# Solana x Serum DeFi Hackathon &middot; Up to $200k in prizes
+# Solana x Serum DeFi Hackathon &middot; Up to $400k in prizes
 #### Bringing Blazing Speed, Low Fees, and Efficiency to Decentralized Finance
 
 * Hackathon dates: February 15 through March 1, 2021
@@ -48,17 +48,20 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon. 
 
+Once winners have been selected, the top 9 teams will have the opportunity to compete for an additional $200k in seed funding. This gives serious builders a chance at jumping full-time into the Solana ecosystem and receive extensive resources from the Solana Foundation, Project Serum, and leading venture capital firms.
+
 **Prizes**
 
 | Place                                  | Prize                                        |
 |----------------------------------------|----------------------------------------------|
-| First Place                            | 2 winners up to $50k each + Solana Swag |
-| Second Place                           | 3 teams of $20k each + Solana Swag              |
-| Third Place                            | 4 teams of $10k each + Solana Swag              |
+| Grand Prize                            | $200k seed funding round  |
+| First Place Winners                            | 2 winners up to $50k each + Solana Swag |
+| Second Place Winners                          | 3 teams of $20k each + Solana Swag              |
+| Third Place Winners                            | 4 teams of $10k each + Solana Swag              |
 | Community Choice Prize                 | $5k + Solana Swag              |
-| Chainlink Prize                        | $5k                                          |
-| SushiSwap Prize                        | $5k                                          |
-| Torus Prize                            | $5k                                          |
+| Chainlink Prize                        | $2k                                          |
+| SushiSwap Prize                        | $2k                                          |
+| Torus Prize                            | $2k                                          |
 | All participants that submit a project | $100 and Solana Swag                         |
 
 ## Discussion Channels
