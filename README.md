@@ -15,14 +15,13 @@ As long as you have an Internet connection, you're invited to join our global ha
 
 * [Solana Documentation](https://docs.solana.com/)
 * [Intro to Programming on Solana](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
-* [Framework for building on Serum](https://github.com/project-serum/anchor)
 * [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
+* [Framework for building on Serum](https://github.com/project-serum/anchor)
 * [Solana Cluster Overview](https://docs.solana.com/cluster/overview)
-* [Full Stack dApp Development Environment by Decentology](https://dappstarter.decentology.com/)
+* [Solana Program Library Documentation](https://spl.solana.com/)
 * [Hello World Example](https://github.com/solana-labs/example-helloworld)
 * [Discord Support Chat](link): Live technical support and help
 * [Find a teammate directory](link)
-* [Solana Program Library Documentation](https://spl.solana.com/)
 
 ## Other Resources + DeFi Building Blocks
 
@@ -31,7 +30,7 @@ As long as you have an Internet connection, you're invited to join our global ha
 * [Margin Reference Implementation](https://github.com/solana-labs/oyster-margin)
 * [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
 * [Chainklink<>Solana Oracle Implementation](link)
-* [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
+* [Full Stack dApp Development Environment by Decentology](https://dappstarter.decentology.com/)
 * [Run your own Serum DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
 * [Solana Development Tutorial](https://solongwallet.medium.com/solana-development-tutorial-things-you-should-know-before-structuring-your-code-807f0e2ee43)
@@ -54,7 +53,7 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 | Place                                  | Prize                                        |
 |----------------------------------------|----------------------------------------------|
-| Grand Prize                            | $200k in seed funding  |
+| Grand Prize Winner                           | $200k in seed funding  |
 | First Place Winners                            | 2 winners up to $50k each + Solana Swag |
 | Second Place Winners                          | 3 teams of $20k each + Solana Swag              |
 | Third Place Winners                            | 4 teams of $10k each + Solana Swag              |
