@@ -1,10 +1,10 @@
 # Solana x Serum DeFi Hackathon &middot; Up to $400k in prizes
-#### Bringing Blazing Speed, Low Fees, and Efficiency to Decentralized Finance
+#### Bringing Blazing Speed, Low Fees, and Scalability to Decentralized Finance
 
 * Hackathon dates: February 15 through March 1, 2021
 * Type: Online and global
+* Registration form: 
 * More details: [Announcement Blog Post](link)
-* Project submission form: [Submit here](link)
 
 ## Introduction
 Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation has teamed up with Serum, the largest DeFi project in the ecosystem, to host a hackathon focused on allowing developers to experiment and leverage our technology to create a plethora of DeFi (Decentralized Finance) applications and tools.
@@ -54,7 +54,7 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 | Place                                  | Prize                                        |
 |----------------------------------------|----------------------------------------------|
-| Grand Prize                            | $200k seed funding round  |
+| Grand Prize                            | $200k in seed funding  |
 | First Place Winners                            | 2 winners up to $50k each + Solana Swag |
 | Second Place Winners                          | 3 teams of $20k each + Solana Swag              |
 | Third Place Winners                            | 4 teams of $10k each + Solana Swag              |
