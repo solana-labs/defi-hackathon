@@ -3,7 +3,7 @@
 
 * Hackathon dates: February 15 through March 1, 2021
 * Type: Online and global
-* Registration form: [Official Website](https://solana.com/defi)
+* Register now: [Official Website](https://solana.com/defi)
 * More details: [Announcement Blog Post](link)
 
 ## Introduction
