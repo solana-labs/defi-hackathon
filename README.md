@@ -14,7 +14,7 @@ As long as you have an Internet connection, you're invited to join the global ha
 ## Get Started Building
 
 * [Solana Documentation](https://docs.solana.com/)
-* [Intro to Programming on Solana](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction/)
+* [Intro to Programming on Solana](https://paulx.dev/blog/2021/01/14/programming-on-solana-an-introduction/)
 * [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
 * [Framework for building on Serum](https://github.com/project-serum/anchor)
 * [Solana Cluster Overview](https://docs.solana.com/cluster/overview)
