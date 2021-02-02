@@ -20,7 +20,7 @@ As long as you have an Internet connection, you're invited to join the global ha
 * [Solana Cluster Overview](https://docs.solana.com/cluster/overview)
 * [Solana Program Library Documentation](https://spl.solana.com/)
 * [Hello World Example](https://github.com/solana-labs/example-helloworld)
-* [Discord Support Chat](link): Live technical support and help
+* [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
 * [Find a teammate directory](link)
 
 ## Other Resources + DeFi Building Blocks
@@ -64,9 +64,9 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 ## Official Discussion Channels
 
-* [#hackathon-announcements](link): Announcements from the Solana Foundation and Serum team
-* [#questions](link): Technical support and help from Solana and Serum Engineers
-* [#team-formation](link): Introduce yourself, find a team, or seek additional team members
+* [#announcements](https://discord.gg/PDy4D4EZw9): Announcements from the Solana Foundation and Serum team
+* [#questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana and Serum Engineers
+* [#join-a-team](https://discord.gg/gYAEpBJace): Introduce yourself, find a team, or seek additional team members
 
 ## Code of Conduct 
 
