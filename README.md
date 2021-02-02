@@ -29,7 +29,7 @@ As long as you have an Internet connection, you're invited to join the global ha
 * [Borrow/Lend Reference Implementation](https://github.com/solana-labs/oyster-lending)
 * [Margin Reference Implementation](https://github.com/solana-labs/oyster-margin)
 * [Wormhole Documentation: Ethereum<>Solana bi-directional bridge](https://github.com/certusone/wormhole)
-* [Chainklink<>Solana Oracle Implementation](link)
+* [Chainlink<>Solana Oracle Implementation](link)
 * [Full Stack dApp Development Environment by Decentology](https://dappstarter.decentology.com/)
 * [Run your own Serum DEX](https://serum-academy.com/en/dex-list/)
 * [List tokens on the Serum DEX](https://serum-academy.com/en/add-market/)
