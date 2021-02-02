@@ -21,7 +21,7 @@ As long as you have an Internet connection, you're invited to join the global ha
 * [Solana Program Library Documentation](https://spl.solana.com/)
 * [Hello World Example](https://github.com/solana-labs/example-helloworld)
 * [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
-* [Find a teammate directory](link)
+* [Find a teammate directory](https://airtable.com/shrKQ0KdkKjoejQex/tblRhtznXGRg28mnJ)
 
 ## Other Resources + DeFi Building Blocks
 
