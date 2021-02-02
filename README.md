@@ -4,7 +4,7 @@
 * Hackathon dates: February 15 through March 1, 2021
 * Type: Online and global
 * Register now: [Official Website](https://solana.com/defi)
-* More details: [Announcement Blog Post](link)
+* More details: [Announcement Blog Post](https://medium.com/solana-labs/announcing-the-solana-foundation-x-serum-defi-hackathon-7e34290f8262)
 
 ## Introduction
 Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation has teamed up with Serum, the largest DeFi project in the ecosystem, to host a hackathon focused on allowing developers to experiment and leverage our technology to create a plethora of DeFi (Decentralized Finance) applications.
