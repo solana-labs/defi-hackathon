@@ -60,7 +60,7 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 | Community Choice Prize                 | $5k + Solana Swag              |
 | SushiSwap Prize                        | $50k                                          |
 | Torus Prize                            | $2k                                          |
-| All participants that submit a project | $100 and Solana Swag                         |
+| All participants that submit a project | $100                         |
 
 ## Official Discussion Channels
 
