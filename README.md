@@ -9,7 +9,7 @@
 ## Introduction
 Solana is a fast, low-fee, and censorship-resistant blockchain designed to enable builders to quickly deploy and scale applications to billions of users globally. The Solana Foundation has teamed up with Serum, the largest DeFi project in the ecosystem, to host a hackathon focused on allowing developers to experiment and leverage our technology to create a plethora of DeFi (Decentralized Finance) applications.
 
-As long as you have an Internet connection, you're invited to join the global hackathon! Combining Serum's infrastructure and tooling with Solana’s core features gives hackers an open design space to expand the overall DeFi ecosystem. While participants are encouraged to build novel DeFi apps, hackers can build infrastructure or any tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at our list of [ideas for inspiration](https://github.com/solana-labs/defi-hackathon/blob/main/ideas.md).
+As long as you have an Internet connection, you're invited to join the global hackathon! Combining Serum's infrastructure and tooling with Solana’s core features gives hackers an open design space to expand the overall DeFi ecosystem. While participants are encouraged to build novel DeFi apps, hackers can build infrastructure or any tool they believe will have an impact on the ecosystem. The only requirement is that teams must incorporate Solana into their project in some way.  Take a look at this list of [DeFi ideas for inspiration](https://github.com/solana-labs/defi-hackathon/blob/main/ideas.md).
 
 ## Get Started Building
 
