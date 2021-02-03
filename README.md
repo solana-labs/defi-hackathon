@@ -18,6 +18,7 @@ As long as you have an Internet connection, you're invited to join the global ha
 * [Serum Developer Resources](https://serum-academy.com/en/developer-resources/)
 * [Framework for building on Serum](https://github.com/project-serum/anchor)
 * [Solana Cluster Overview](https://docs.solana.com/cluster/overview)
+* [Getting started with Rust](https://www.rust-lang.org/learn)
 * [Solana Program Library Documentation](https://spl.solana.com/)
 * [Hello World Example](https://github.com/solana-labs/example-helloworld)
 * [Discord Support Chat](https://discord.gg/uNHzdyZRMB): Live technical support and help
