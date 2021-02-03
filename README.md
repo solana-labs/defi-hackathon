@@ -65,9 +65,9 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 
 ## Official Discussion Channels
 
-* [#announcements](https://discord.gg/PDy4D4EZw9): Announcements from the Solana Foundation and Serum team
-* [#questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana and Serum Engineers
-* [#join-a-team](https://discord.gg/gYAEpBJace): Introduce yourself, find a team, or seek additional team members
+* [#hackathon-announcements](https://discord.gg/PDy4D4EZw9): Announcements from the Solana Foundation and Serum team
+* [#hackathon-questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana and Serum Engineers
+* [#hackathon-team-formation](https://discord.gg/gYAEpBJace): Introduce yourself, find a team, or seek additional team members
 
 ## Code of Conduct 
 
