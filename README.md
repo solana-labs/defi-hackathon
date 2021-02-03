@@ -43,7 +43,7 @@ Participants may submit a maximum of 1 project by the hackathon deadline. Once a
 1. Functionality
 2. Potential impact
 3. Novelty
-4. Design
+4. Design + UX
 5. Composability
 
 After judges complete individual evaluations, the hackathon organizers will discuss with the judges to choose the winners based on the project's weighted scores. Winners of the event will be announced shortly after the end of the hackathon. 
