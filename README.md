@@ -63,7 +63,7 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 | Torus Prize                            | $2k                                          |
 | All participants that submit a project | $100                         |
 
-## Official Discussion Channels
+## Discord Discussion Channels
 
 * [#hackathon-announcements](https://discord.gg/PDy4D4EZw9): Announcements from the Solana Foundation and Serum team
 * [#hackathon-questions](https://discord.gg/uNHzdyZRMB): Technical support and help from Solana and Serum Engineers
