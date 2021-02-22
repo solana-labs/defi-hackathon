@@ -17,7 +17,7 @@ Hackathon participants are free to explore and build projects that span a variet
 - Education- a game-type protocol that walks a user thu the DeFi journey. Combining video clips, resources and yield-farming/NFT quest type journey to get normies up to speed
 * DeFi asset manager: A single interface consolidating all DeFi assets and liabilities across different platforms (and different chains) into one.
 * DEX Aggregator: A cross-chain DEX aggregator that allows users to choose the best price for execution across multiple DeFi platforms, including cross-chain platforms.
-* Build-your-own Liquidity Mining platform: Utilize yeild farming
+* Build-your-own Liquidity Mining platform: Utilize yield farming to jumpstart your product
 * Synthetic Assets: Build out support for tokenized synthetic assets using Chainlink oracles and listing the SPL Synthetics on Serum
 * Arbitrage bots: A bot that automatically moves funds from Serum CLOB when vol is low and moves it to AMM when vol is high
 * Compute implied vol or black scholes from Serum market data for a volatility index/product
