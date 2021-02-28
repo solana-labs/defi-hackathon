@@ -3,7 +3,7 @@
 
 * Hackathon deadline: March 1, 2021 | 11:59pm PT
 * Type: Online and global
-* Register now: [Official Website](https://solana.com/defi)
+* Submission form: [Official Website](https://solana.com/defi)
 * More details: [Announcement Blog Post](https://medium.com/solana-labs/announcing-the-solana-foundation-x-serum-defi-hackathon-7e34290f8262)
 
 ## Introduction
