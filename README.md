@@ -60,7 +60,6 @@ Once winners have been selected, the top 9 teams will have the opportunity to co
 | Second Place Winners                          | 3 teams of $20k each + Solana Swag              |
 | Third Place Winners                            | 4 teams of $10k each + Solana Swag              |
 | Community Choice Prize                 | $5k + Solana Swag              |
-| SushiSwap Prize                        | $50k                                          |
 | Torus Prize                            | $2k                                          |
 | All participants that submit a project | $100                         |
 
